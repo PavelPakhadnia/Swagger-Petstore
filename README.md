@@ -1,1 +1,1 @@
-# Swagger-Petstore
+# Swagger-Petstore. Access to Petstore orders
