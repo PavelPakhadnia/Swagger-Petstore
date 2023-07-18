@@ -4,8 +4,8 @@
 
 Создал:
 
-[соответствующую коллекцию](https://github.com/PavelPakhadnia/Swagger-Petstore/blob/main/Swagger%20Petstore.postman_collection.json); 
+- [соответствующую коллекцию](https://github.com/PavelPakhadnia/Swagger-Petstore/blob/main/Swagger%20Petstore.postman_collection.json); 
 
-[тест-кейсы](https://github.com/PavelPakhadnia/Swagger-Petstore/blob/main/Test-cases%20Swagger_Petstore.pdf);
+- [тест-кейсы](https://github.com/PavelPakhadnia/Swagger-Petstore/blob/main/Test-cases%20Swagger_Petstore.pdf);
 
-[баг-репорт](https://github.com/PavelPakhadnia/Swagger-Petstore/blob/main/Bug-report%20Swagger_Petstore.pdf).
+- [баг-репорт](https://github.com/PavelPakhadnia/Swagger-Petstore/blob/main/Bug-report%20Swagger_Petstore.pdf).
